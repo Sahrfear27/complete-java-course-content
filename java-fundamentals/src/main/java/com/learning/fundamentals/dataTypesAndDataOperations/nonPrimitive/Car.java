@@ -1,4 +1,4 @@
-package com.learning.fundamentals.dataTypes;
+package com.learning.fundamentals.dataTypesAndDataOperations.nonPrimitive;
 
 public class Car {
     String model;
