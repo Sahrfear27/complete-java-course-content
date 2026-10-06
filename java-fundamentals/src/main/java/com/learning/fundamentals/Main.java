@@ -1,8 +1,12 @@
 package com.learning.fundamentals;
 
+import com.learning.fundamentals.dataTypes.DataType;
+
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Java Fundamentals");
+        DataType dataType = new DataType();
+        dataType.primitiveDataType();
+        dataType.nonprimitiveDataType();
     }
 }
